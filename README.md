@@ -6,7 +6,7 @@ markdown
 
 This repository contains the custom R, Python, and shell scripts used to generate the computational results reported in:
 
-> **Huiwei Wanga#, Xin Lia#, Mingxuan Mab#, Henan Sia, Bing Hana, Lei Yaoa, Junfeng Zhoua, Shuyue Yanga, Wei Yangc, Qin Haod*, Yu Zhena*, Shanshan Lia*
+> **Huiwei Wang, Xin Lia, Mingxuan Ma, Henan Si, Bing Han, Lei Yao, Junfeng Zhou, Shuyue Yang, Wei Yang, Qin Hao*, Yu Zhen*, Shanshan Li*
 .** *[Manuscript title].* npj [Journal name] (2026). https://doi.org/[manuscript DOI]
 
 The study integrates bulk and single-cell transcriptomic analyses, ensemble machine learning, immune-cell deconvolution, molecular docking, and 100-ns molecular dynamics simulations to construct a putative adverse outcome pathway (AOP) linking predicted 4-tert-butylphenol (4-tBP) interactions with melanocyte dysfunction and immune microenvironment alterations in vitiligo. **No new experimental data were generated.**
